@@ -19,9 +19,9 @@ Wifresti is a simple Wi-Fi password recovery tool , compatible with Windows , an
 Please visit https://github.com/LionSec/wifresti/issues
 
 #Contact
-Website : http://lionsec.net
-Youtube : https://youtube.com/inf98es
-Facebook : https://facebook.com/in98
-Twitter: @LionSec1
-Email : ledonman@gmail.com
+- Website : http://lionsec.net
+- Youtube : https://youtube.com/inf98es
+- Facebook : https://facebook.com/in98
+- Twitter: @LionSec1
+- Email : ledonman@gmail.com
 
