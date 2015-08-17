@@ -20,7 +20,7 @@ python wifresty.py
 #Without Python
 
 If you do not have Python installed, you can also download the executable versión
-Download link : goo.gl/4NlrQp
+Download link : http://goo.gl/4NlrQp
 
 #I have some questions!
 
