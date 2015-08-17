@@ -20,7 +20,7 @@ python wifresty.py
 
 #Without Python (.exe file)
 
-If you do not have Python installed, you can also download the executable Version (Only for Windows)
+If you do not have Python installed, you can also download the executable version (Only for Windows)
 - Download link : http://lionsec.net/tools/download.php?Down=wifresti_windows.zip
 
 #I have some questions!
