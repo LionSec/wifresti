@@ -2,7 +2,7 @@
 
 Find your wireless network password in Windows , Linux and Mac OS
 
-Wifriti is a simple Wi-Fi password recovery tool , compatible with Windows , and Unix systems (Linux , Mac OS) .
+Wifresti is a simple Wi-Fi password recovery tool , compatible with Windows , and Unix systems (Linux , Mac OS) .
 
 
 #Features
