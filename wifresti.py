@@ -96,8 +96,7 @@ def main():
                                 print wifi2
                                 print "#############################################################################################"
                                 print " "                                 
-                                f.close()
-                                os.remove("temp.txt")
+
                                         
                 if entrada == mac:
                         print "Coming soon"
