@@ -97,7 +97,7 @@ def main():
                                 print "#############################################################################################"
                                 print " "  
                         guardar = raw_input("Do you want to save the result ? [y/n] > ")
-                        if guardar == "y" or "Y":
+                        if guardar == "y":
                                 f = open(nombre+'.txt','w')
                                 f.write(wifi2 + '\n')
                                 f.close()
