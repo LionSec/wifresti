@@ -93,18 +93,8 @@ def main():
                                 print " "                            
                                 wifi2 = check_output("netsh wlan show profile name=" + nombre +" key=clear", shell=True)
                                 print " "                            
-                            
-                                f = open('temp.txt','w')
-                                f.write(wifi2 + '\n') 
-                                f.close()
 
-                                f = open("temp.txt","r")
-                                
-                                linelist = f.readlines()
-                                
-                                
-                                print linelist[27]
-                                print linelist[30].replace("Key Content", "Password ")
+                                print wifi2
                                 print "#############################################################################################"
                                 print " "                                 
                                 f.close()
