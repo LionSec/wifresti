@@ -26,7 +26,7 @@ def main():
                 print"|  $$$$$/$$$$/| $$| $$    | $$      |  $$$$$$$ /$$$$$$$/  |  $$$$/| $$"
                 print" \_____/\___/ |__/|__/    |__/       \_______/|_______/    \___/  |__/"
                 print" "
-                print"	Autor: LionSec | Website: www.lionsec.net | @lionsec1	V1.0			"
+                print"	Author: LionSec | Website: www.lionsec.net | @lionsec1	V1.0			"
 
 
                 print" "
