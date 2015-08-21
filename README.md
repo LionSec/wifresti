@@ -13,6 +13,11 @@ Wifresti is a simple Wi-Fi password recovery tool , compatible with Windows , an
 
 - An operating system (tested on Ubuntu, Windows 10,8,7)
 - Python 2.7
+#Instalation 
+git clone https://github.com/LionSec/wifresti.git
+cp wifresti/wifresti.py /usr/bin/wifresti
+wifresti
+
 
 #Use ( Run as administrator )
 
